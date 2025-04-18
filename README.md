@@ -16,7 +16,6 @@
 ![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Strapi](https://img.shields.io/badge/strapi-2E2E2E.svg?style=for-the-badge&logo=strapi&logoColor=white)
-![Clerk](https://img.shields.io/badge/clerk-F44A45.svg?style=for-the-badge&logo=clerk&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dopex7&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dopex7&theme=shadow_blue&hide_border=false)<br/>
